@@ -1,5 +1,5 @@
-#Fashion Recommendation system
-I built a fashion recommendation system that harnesses the capabilities of transfer learning with the ResNet-50 architecture and the Annoy library to optimize 
+#Recommendation-system-Style
+Built a recommendation system that harnesses the capabilities of transfer learning with the ResNet-50 architecture and the Annoy library to optimize 
 the K-Nearest Neighbors (KNN) algorithm. By extracting features from over 30,000+ images using ResNet-50, the system can analyze and understand the visual data effectively. 
 The recommendation process uses KNN to perform a similarity search, identifying the top 5 closest matches to a user's input and delivering personalized fashion suggestions.
 
